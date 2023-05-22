@@ -1,14 +1,14 @@
 //typing script js//
 var typed = new Typed(".typing",{
 
-    strings: ["Programmer", "Web  Designer","web developer"],
+    strings: [ "Web  Designer","web developer","Programmer"],
     typeSpeed:80,
     backSpeed:80,
 })
 
 var typed = new Typed(".typing-2",{
 
-    strings: ["Programmer", "Web  Designer","web developer"],
+    strings: [ "Web  Designer","web developer","Programmer"],
     typeSpeed:100,
     backSpeed:60,
 })
