@@ -284,7 +284,7 @@ header{
 
 .about_container .about_img{
     border: 3px solid var(--primary);
-    border-radius: 50%;
+    border-radius: 60%;
     overflow: hidden;
     max-width: 15.5rem;
     max-height: 20.5rem;
